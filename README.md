@@ -1,6 +1,6 @@
-# React + Vite
+# useContext practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this repository I used the useContext hook. It is a tool that allows information to be shared between components in an easy and simple way. With useContext, components can access data and functions from a shared context without having to manually pass props through multiple levels of components.
 
 Currently, two official plugins are available:
 
